@@ -1,0 +1,15 @@
+########################################
+Steps by step details
+
+## 0 child case :
+
+1) Parent referrence store ..
+2)  Child not exist ... condition 
+3)  check left / right --> none
+
+
+##  1 child case :
+
+0) 
+   a) root --->1
+   b) node -- >1 
